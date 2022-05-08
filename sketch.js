@@ -1,19 +1,7 @@
 /* ----- SET INITIAL VARIABLES ----- */
 
-let floorPos_y;
-
-let gameChar_x;
-let gameChar_y;
-
-let treePos_x;
-let treePos_y;
-
-let canyon;
-let collectable;
-
-let mountain;
-let cloud;
-
+let floorPos_y, gameChar_x, gameChar_y, treePos_x, treePos_y, canyon,
+collectable, mountain, cloud;
 
 function setup()
 {
